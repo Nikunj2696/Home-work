@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 88C2-D3DE
+
+ Directory of C:\Users\cmehta\Desktop\My_project
+
+04/11/2021  12:57 AM    <DIR>          .
+04/11/2021  12:57 AM    <DIR>          ..
+04/11/2021  12:58 AM                 0 new.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  389,403,394,048 bytes free
